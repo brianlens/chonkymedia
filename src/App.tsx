@@ -8,7 +8,7 @@ import { Footer } from './components/Footer';
 import Home from './Home';
 import About from './About';
 import Photo from './Photo';
-import Digital from './Digital'
+import Digital from './Digital';
 import Food from './Food';
 
 function App()  { 
